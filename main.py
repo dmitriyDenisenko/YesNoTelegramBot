@@ -1,7 +1,7 @@
 from telebot import TeleBot
 import requests
 
-bot = TeleBot('5899504466:AAE6aCV-346aZRTHbga-6gAASmHiQ1fVFEQ')
+bot = TeleBot('NULL FOR HAKERS')
 
 
 @bot.message_handler(commands=['start'])
